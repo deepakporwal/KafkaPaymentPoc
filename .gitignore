@@ -1,0 +1,27 @@
+# .NET build output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+[Tt]estResults/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnLaunch.user
+
+# Test and coverage output
+*.trx
+*.coverage
+*.coveragexml
+
+# Local-only configuration and secrets
+appsettings.Local.json
+appsettings.*.Local.json
+secrets.json
+
+# NuGet packages
+*.nupkg
+*.snupkg

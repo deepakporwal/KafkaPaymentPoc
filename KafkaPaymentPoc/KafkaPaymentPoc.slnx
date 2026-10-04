@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Payment.Worker/Payment.Worker.csproj" />
+  <Project Path="KafkaPaymentPoc/KafkaPaymentPoc.csproj" />
+</Solution>
